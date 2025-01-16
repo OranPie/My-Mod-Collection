@@ -37,6 +37,11 @@
    - MCMOD（审核中）
    - Modrinth（审核中）
    - [蓝奏云](https://orangepie.lanzout.com/iod0z2l0v2bi)
+
+6. IIS Fabric **制作中**
+   1.18.2 Fabric
+   - [原模组(MCMOD)](https://www.mcmod.cn/class/13734.html)
+
 7. WhyCooldown **停更**
 
    1.16.5 Fabric
